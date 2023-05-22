@@ -10,7 +10,7 @@ setup(
     author_email='rorik302@gmail.com',
     install_requires=[
         "beautifulsoup4==4.9.1",
-        "requests==2.23.0",
+        "requests==2.31.0",
     ],
     entry_points={
         'console_scripts': [
